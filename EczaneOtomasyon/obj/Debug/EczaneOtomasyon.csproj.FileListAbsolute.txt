@@ -1,0 +1,14 @@
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\bin\Debug\EczaneOtomasyon.exe.config
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\bin\Debug\EczaneOtomasyon.exe
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\bin\Debug\EczaneOtomasyon.pdb
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.Form1.resources
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.Menu.resources
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.Properties.Resources.resources
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOt.E32E33ED.Up2Date
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.exe
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.pdb
