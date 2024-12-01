@@ -12,3 +12,4 @@ C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtom
 C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOt.E32E33ED.Up2Date
 C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.exe
 C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.pdb
+C:\Users\tahak\source\repos\EczaneOtomasyon\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.Ayarlar.resources

@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|c:\\users\\tahak\\source\\repos\\eczaneotomasyon\\eczaneotomasyon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\eczaneotomasyon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\eczaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|c:\\users\\tahak\\source\\repos\\eczaneotomasyon\\eczaneotomasyon\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|c:\\users\\tahak\\source\\repos\\eczaneotomasyon\\eczaneotomasyon\\ilac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\ilac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|c:\\users\\tahak\\source\\repos\\eczaneotomasyon\\eczaneotomasyon\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|c:\\users\\tahak\\source\\repos\\eczaneotomasyon\\eczaneotomasyon\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\eczaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\eczaneotomasyon\\cgenel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\cgenel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|c:\\users\\tahak\\source\\repos\\eczaneotomasyon\\eczaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\eczaneotomasyon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\eczaneotomasyon\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\eczaneotomasyon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\eczaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\eczaneotomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\eczaneotomasyon\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{912D9644-BE91-4E34-AEA5-96B5730ECCB3}|EczaneOtomasyon\\EczaneOtomasyon.csproj|solutionrelative:eczaneotomasyon\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +54,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Form1.cs",
+              "RelativeDocumentMoniker": "EczaneOtomasyon\\Form1.cs",
+              "ToolTip": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Form1.cs",
+              "RelativeToolTip": "EczaneOtomasyon\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAMwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:54:49.619Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "EczaneOtomasyon\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Menu.Designer.cs",
+              "RelativeToolTip": "EczaneOtomasyon\\Menu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:22:41.819Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
@@ -54,46 +93,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Ayarlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Ayarlar.cs",
+              "RelativeDocumentMoniker": "EczaneOtomasyon\\Ayarlar.cs",
+              "ToolTip": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Ayarlar.cs [Design]",
+              "RelativeToolTip": "EczaneOtomasyon\\Ayarlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:21:14.505Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ilac.cs",
+              "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Ilac.cs",
+              "RelativeDocumentMoniker": "EczaneOtomasyon\\Ilac.cs",
+              "ToolTip": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Ilac.cs",
+              "RelativeToolTip": "EczaneOtomasyon\\Ilac.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:19:32.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Menu.cs",
               "RelativeDocumentMoniker": "EczaneOtomasyon\\Menu.cs",
               "ToolTip": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Menu.cs",
               "RelativeToolTip": "EczaneOtomasyon\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T12:50:15.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Form1.cs",
-              "RelativeDocumentMoniker": "EczaneOtomasyon\\Form1.cs",
-              "ToolTip": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Form1.cs",
-              "RelativeToolTip": "EczaneOtomasyon\\Form1.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAuwCIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T11:54:49.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "calisan.cs",
               "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\calisan.cs",
               "RelativeDocumentMoniker": "EczaneOtomasyon\\calisan.cs",
               "ToolTip": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\calisan.cs",
               "RelativeToolTip": "EczaneOtomasyon\\calisan.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAuwD0AAAA/AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T09:55:10.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Menu.cs",
               "RelativeDocumentMoniker": "EczaneOtomasyon\\Menu.cs",
@@ -105,46 +156,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Program.cs",
               "RelativeDocumentMoniker": "EczaneOtomasyon\\Program.cs",
               "ToolTip": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Program.cs",
               "RelativeToolTip": "EczaneOtomasyon\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T09:54:44.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\App.config",
               "RelativeDocumentMoniker": "EczaneOtomasyon\\App.config",
               "ToolTip": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\App.config",
               "RelativeToolTip": "EczaneOtomasyon\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-11-28T09:54:00.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "cGenel.cs",
               "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\cGenel.cs",
               "RelativeDocumentMoniker": "EczaneOtomasyon\\cGenel.cs",
               "ToolTip": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\cGenel.cs",
               "RelativeToolTip": "EczaneOtomasyon\\cGenel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T09:53:47.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tahak\\source\\repos\\EczaneOtomasyon\\EczaneOtomasyon\\Form1.cs",
               "RelativeDocumentMoniker": "EczaneOtomasyon\\Form1.cs",

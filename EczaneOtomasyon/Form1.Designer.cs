@@ -40,10 +40,11 @@
             // txtKullaniciAdi
             // 
             this.txtKullaniciAdi.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtKullaniciAdi.Location = new System.Drawing.Point(864, 317);
+            this.txtKullaniciAdi.Location = new System.Drawing.Point(864, 313);
             this.txtKullaniciAdi.Name = "txtKullaniciAdi";
             this.txtKullaniciAdi.Size = new System.Drawing.Size(552, 62);
             this.txtKullaniciAdi.TabIndex = 0;
+            this.txtKullaniciAdi.TextChanged += new System.EventHandler(this.txtKullaniciAdi_TextChanged);
             // 
             // contextMenuStrip1
             // 
@@ -73,7 +74,7 @@
             // txtParola
             // 
             this.txtParola.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtParola.Location = new System.Drawing.Point(864, 457);
+            this.txtParola.Location = new System.Drawing.Point(864, 453);
             this.txtParola.Name = "txtParola";
             this.txtParola.PasswordChar = '*';
             this.txtParola.Size = new System.Drawing.Size(552, 62);

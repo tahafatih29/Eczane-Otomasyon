@@ -42,5 +42,10 @@ namespace EczaneOtomasyon
                 MessageBox.Show("Şifreniz Yanlış!", "Uyarı!!!", MessageBoxButtons.OK, MessageBoxIcon.Stop);
             }
         }
+
+        private void txtKullaniciAdi_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
